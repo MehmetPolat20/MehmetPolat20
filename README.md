@@ -11,7 +11,7 @@
 - ⚡ I can help with BackEnd & FrontEnd.
 - 👨‍💻 All of my projects are available at [https://github.com/MehmetPolat20](https://github.com/MehmetPolat20)
 - 📫 How to reach me https://www.linkedin.com/in/mehmet-polat-1b159627a/
-- 💬 Ask me about anything
+- 💬 Ask me about anything.
 - 🤝🏻 I am open to job offers.
 
 
