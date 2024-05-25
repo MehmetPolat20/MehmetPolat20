@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Mehmet Polat.</h1>
 <h3 align="center">🌱 I work as a passionate Full Stack Developer.</h3>
 
-🔭 -I work as a passionate Full Stack Developer
-🌱- I'm currently improving my skills in frontend technologies.
-⚡ -I can help with BackEnd & FrontEnd.
-👨‍💻 -All of my projects are available at [https://github.com/MehmetPolat20](https://github.com/MehmetPolat20)
+🔭 - I work as a passionate Full Stack Developer
+🌱 - I'm currently improving my skills in frontend technologies.
+⚡ - I can help with BackEnd & FrontEnd.
+👨‍💻 - All of my projects are available at [https://github.com/MehmetPolat20](https://github.com/MehmetPolat20)
 📫 - How to reach me https://www.linkedin.com/in/mehmet-polat-1b159627a/
-💬 -Ask me about anything
-🤝🏻 -I am open to job offers.
+💬 - Ask me about anything
+🤝🏻 - I am open to job offers.
 
 
 
