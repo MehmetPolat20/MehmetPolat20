@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" />
-</p>
+<div align="center">
+    <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" style="width: 400px; height: auto;" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Mehmet Polat.</h1>
 <h3 align="center">🌱 I work as a passionate Full Stack Developer.</h3>
