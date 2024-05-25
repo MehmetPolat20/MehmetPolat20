@@ -43,12 +43,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-![snake gif](https://github.com/MehmetPolat20/MehmetPolat20/blob/output/github-contribution-grid-snake.gif)
-
-yerine aşağıdaki kodu yapıştırarak yine sadece CagatayAkkas yazan yerlere kendi kullanıcı adımızı yazıyoruz ve işlemimiz bitmiştir =) :
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehmetPolat20/MehmetPolat20/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehmetPolat20/MehmetPolat20/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MehmetPolat20/MehmetPolat20/output/github-contribution-grid-snake.svg">
 </picture>
