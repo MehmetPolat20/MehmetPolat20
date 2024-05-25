@@ -1,4 +1,7 @@
-![Visitor Count](https://profile-counter.glitch.me/{MehmetPolat20}/count.svg)
+<p align="center">
+    <img src="https://profile-counter.glitch.me/{username}/count.svg" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mehmet Polat.</h1>
 <h3 align="center">🌱 I work as a passionate Full Stack Developer.</h3>
 
