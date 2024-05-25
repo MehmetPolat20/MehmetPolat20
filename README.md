@@ -1,4 +1,4 @@
- [![MasterHead](https://www.michaelpage.co.in/sites/michaelpage.co.in/files/2022-05/Software%20Developer.jpg)
+
 <h1 align="center">Hi 👋, I'm Mehmet Polat.</h1>
 <h3 align="center">🌱 I work as a passionate Full Stack Developer.</h3>
 
