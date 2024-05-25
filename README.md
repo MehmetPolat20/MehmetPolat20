@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mehmet+Polat&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=000000&size=24" alt="Example Usage - README Typing SVG" style="display: inline-block; vertical-align: middle;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%" style="display: inline-block; vertical-align: middle;">
 </div>
-    🌱 I work as a passionate Full Stack Developer.</h3>
 
+- 💻 I work as a passionate Full Stack Developer.
 - 🌱 I'm currently improving my skills in frontend & backend technologies.
    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="280" />
 - ⚡ I can help with BackEnd & FrontEnd.
