@@ -1,8 +1,8 @@
 <div align="center">
     <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" style="width: 400px; height: auto;" />
 </div>
-
-<h1 align="center">Hi 👋, I'm Mehmet Polat.</h1>
+<h1 align="center" >
+ Hi there, I'm Mehmet Polat <a href="https://www.linkedin.com/in/mehmet-polat-1b159627a/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 <h3 align="center">🌱 I work as a passionate Full Stack Developer.</h3>
 
 - 🌱 I'm currently improving my skills in frontend & backend technologies.
