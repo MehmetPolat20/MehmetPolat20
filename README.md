@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" style="width: 400px; height: 300px;" />
+    <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" style="width: 300px; height: 150px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mehmet Polat.</h1>
