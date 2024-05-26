@@ -2,7 +2,6 @@
     <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" style="width: 300px; height: auto;" />
 </div>
 
-
 ---------------------
 
 <div align="center">
