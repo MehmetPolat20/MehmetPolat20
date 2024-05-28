@@ -11,7 +11,7 @@
 
 - 💻 I work as a passionate Full Stack Developer.
 - 🌱 I'm currently improving my skills in frontend & backend technologies.
-   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="280" />
+    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
 - ⚡ I can help with BackEnd & FrontEnd.
 - 👨‍💻 All of my projects are available at [https://github.com/MehmetPolat20](https://github.com/MehmetPolat20)
 - 📫 How to reach me https://www.linkedin.com/in/mehmet-polat-1b159627a/
