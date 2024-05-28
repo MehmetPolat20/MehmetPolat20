@@ -54,3 +54,4 @@
   />
 </picture>
 </center>
+<img height="100" alt="Thanks for visiting me" width="100%" color="black" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
