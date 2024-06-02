@@ -7,8 +7,8 @@
 - 🌱 I'm currently improving my skills in FrontEnd & BackEnd technologies.
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
 - ⚡ I can help with FrontEnd & BackEnd.
-- 👨‍💻 All of my projects are available at [https://github.com/MehmetPolat20]
-- 📫 How to reach me (https://www.linkedin.com/in/mehmet-polat-/)
+- 👨‍💻 All of my projects are available at https://github.com/MehmetPolat20
+- 📫 How to reach me https://www.linkedin.com/in/mehmet-polat-/
 - 💬 Ask me about anything.
 - 🤝🏻 I am open to job offers.
 
