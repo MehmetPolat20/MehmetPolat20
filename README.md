@@ -8,6 +8,7 @@
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
 - ⚡ I can help with FrontEnd & BackEnd.
 - 📫 How to reach me https://www.linkedin.com/in/mehmet-polat-/
+- 👯 I am open to collaboration and capable of working harmoniously with a team.
 - 💬 Ask me about anything.
 - 🤝🏻 I am open to job offers.
 
