@@ -16,8 +16,12 @@
 
 --------------
 <div align="center">
-    <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" style="width: auto; height: auto;" />
+  <img src="https://komarev.com/ghpvc/?username=MehmetPolat20&style=flat-square&color=yellow&label=Buraya+Bakarlar" width="200" />
 </div>
+
+
+
+
 
 ---------
 
